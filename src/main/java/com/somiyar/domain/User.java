@@ -5,4 +5,5 @@ public class User {
 	private int role;
 	private String userName;
 	private String passWord;
+	private String count;
 }
